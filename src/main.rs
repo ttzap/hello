@@ -3,7 +3,6 @@ fn main() {
 
     array.push(2);
 
-    array.push(4);
 
-    println!("Hello, {}", array[1]);
+    println!("Hello, {}", array[0]);
 }
